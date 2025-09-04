@@ -1,0 +1,23 @@
+print():
+______
+1. use displayed on the screen or console.
+2. any content display on the screen or console, it should be include inside the parenthesis-( ).
+3. content should be write in single quotes/ double quotes.
+Ex:
+print("Hello World")
+print('Hello World')
+
+output:
+Hello World
+
+Comments:
+___________
+
+in line comment: # comment
+multi line comment: ''' comment ''' or """ comment """
+Ex: 
+multi:
+"""comment1
+   comment2 """
+print('1234')
+print('sathish') #Name
