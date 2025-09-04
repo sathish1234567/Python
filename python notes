@@ -47,5 +47,26 @@ x : int = 3
 y : float = 1.23
 z : str = '123'
 
+Assigining values to variables:
+_______________________________
+A = 1
+A = B = C = 1
+A,B,C = 1, 1.23, 'string'
+
+Literals:
+_________
+String literals : '1234', "sathish"
+Character literals : 'C'
+integer literals " 1, 0, -1.
+float literals : 1.1, 0.0, 2.2.
+complex literals : 0+0J, 1+2J # 1- real, 2- imaginary 
+boolean literals : is_pass = True, is_false = False
+special literals : None - use to specify  null variable.
+Ex: vlaue = None - print(Value) - output- None
+Collection literals:
+- list literals: ["apple", "Mango"]
+- tuple literals : (1,2,3)/('1','2','3')
+- dictionary literals: {'a':'apple', 'b':'ball', 'c':'cat'}
+- set literals : {'a','e','i','o','u'}
 
 
