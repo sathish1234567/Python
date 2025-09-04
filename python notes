@@ -21,3 +21,31 @@ multi:
    comment2 """
 print('1234')
 print('sathish') #Name
+
+short cut comments to apply ctrl + /
+
+variables:
+_________
+1. are containers or storage area to hold the data.
+2. python is a type-inferred language- dynamic type decleration when you assiging value. so don't have to explicitly define the varaible type.
+
+implicit type:
+a = 1 " # class int
+a = '1234' # class str
+a = 1.23 # class flt
+
+explicit type
+x : int
+y : float
+z : str
+
+x = 1
+y = 1.23
+z = str
+or 
+x : int = 3
+y : float = 1.23
+z : str = '123'
+
+
+
