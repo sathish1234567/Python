@@ -1,0 +1,25 @@
+Data - collection of information.
+Database: Store the data in DB
+|_ 3 types
+  |_1. structured - it allows specific predefined structure.- stored in relational db( means rows and columns). Ex: Oracle
+                  
+  |_2. Semi-Structured- No sql.
+        |_ Data access is fast comparison with Structured sql.
+  |_3. Un structured - Stored in file formats/ Ex: googe drive(.txt/.xls/.pdf)
+
+DB install- mysql
+Hostname : localhost/127.0.0.1( your own)
+port : *********
+user : root
+passwrod .. 
+
+create schema and table
+create scehma 'name'
+create table 'schma'.<table name>
+(
+}
+
+Look into the CRUD opertion.-mysql workbech..
+
+
+
